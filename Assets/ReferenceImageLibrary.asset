@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5378104342528147683
+  m_GuidHigh: 9457460319898177930
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5571987105864876243
+      m_GuidHigh: 6059319636353387916
+    m_SerializedTextureGuid:
+      m_GuidLow: 11817509100249504083
+      m_GuidHigh: 2735280373978412984
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: logo
+    m_Texture: {fileID: 2800000, guid: 3251595339eaa400b8b7140c02abf525, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4993671397740697748
+      m_GuidHigh: 14183097050629741716
+    m_SerializedTextureGuid:
+      m_GuidLow: 9537892744700499587
+      m_GuidHigh: 17534739185222624123
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: qr
+    m_Texture: {fileID: 2800000, guid: d9a6168366ea845d7b2351cc62e857f3, type: 3}
